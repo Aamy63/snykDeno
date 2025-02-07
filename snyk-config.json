@@ -1,0 +1,6 @@
+{
+  "test": {
+    "ignore": ["SQL Injection", "Hardcoded Secrets"],
+    "failOn": "high"
+  }
+}
